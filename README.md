@@ -60,6 +60,9 @@ Semua dibungkus dengan UI modern berbasis Material 3 dan desain responsif.
 
 ---
 
-## 📁 Struktur Proyek
+## 🚀 Jalankan Proyek
 
+```bash
+flutter pub get
+flutter run
 
